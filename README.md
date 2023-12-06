@@ -1,5 +1,5 @@
 <h2 align="center">hello there 👋</h2>
-<p align="center">Currently developing some website projects and passionate about full-stack development and machine learning. Diving into the coding world to turn ideas into reality! 🚀</p>
+<p align="center">Currently developing some website projects and passionate about full-stack development and interests in machine learning & computer network. Diving into the coding world to turn ideas into reality! 🚀</p>
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/a2ckSILufD4AAAAC/attack-on-titan-aot.gif">
 
 📫 How to reach me **mabdullah.azzam03@gmail.com**
