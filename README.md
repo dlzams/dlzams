@@ -30,7 +30,7 @@ I’m Azzam, a Computer Science student and a passionate developer with experien
 ### 📜 Certifications
 - **Advanced Computer Vision with TensorFlow**
 - **Deep Learning AI TensorFlow Developer**
-- **Data Analysis with Python** (IBM)
+- **Data Analysis with Python**
 - **Natural Language Processing in TensorFlow**
 - **and more, visit my personal website :)**
 
