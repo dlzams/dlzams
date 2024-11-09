@@ -22,7 +22,7 @@ I’m Azzam, a Computer Science student and a passionate developer with experien
 - **QRadar**
 - **SIEM**
 - **Cybereason**
-- **GIB Threat Hunt Framework**
+- **GIB Threat Hunting Framework**
 - **Stellar**
 
 ---
