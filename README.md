@@ -6,7 +6,7 @@
 <p align="center">Final-year Computer Science student specializing in Security Analysis, Machine Learning, Deep Learning, and Data Analysis. 🚀</p>
 
 ### 👨‍💻 About Me
-I’m Azzam, a Computer Science student and a passionate developer with experience in security analysis, data science, and web development. Currently, I’m diving deeper into machine learning biometrics. Feel free to explore my projects and experiences below!
+I’m Azzam, a Computer Science student and a passionate developer with experience in security analysis, deep learning, data science, and web development. Currently, I’m diving deeper into machine learning biometrics. Feel free to explore my projects and experiences below!
 
 ---
 
