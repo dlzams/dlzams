@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hello there 👋</h2>
-<p align="center">Technical Consultant Data Security | Networking | Security Analyst | Deep Learning | Runner 🚀</p>
+<p align="center">Informactis Fresh Grad | Networking | Security Analyst (Incident Responses) | Deep Learning | Runner 🚀</p>
 
 ### 👨‍💻 About Me
 I’m Azzam, a Bachelor of Computer Science and a passionate developer with experience in security analysis, deep learning, data science, and web development. Currently, I’m diving deeper computer network. Feel free to explore my projects and experiences below!
