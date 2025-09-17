@@ -11,19 +11,21 @@ I’m Azzam, a Bachelor of Computer Science and a passionate professional with h
 ---
 
 ### 🔨 Languages and Tools
+#### Cybersecurity Tools
+- **IBM QRadar**
+- **Palo Alto Network Cortex XDR**
+- **CrowdStrike**
+- **DLP Forcepoint**
+- **Cybereason**
+- **GIB Threat Hunting Framework**
+- **Stellar**
+
 #### Development Tools
 - **Python**
 - **TensorFlow**
 - **React**
 - **JavaScript**
 - **MySQL**
-
-#### Cybersecurity Tools
-- **QRadar**
-- **SIEM**
-- **Cybereason**
-- **GIB Threat Hunting Framework**
-- **Stellar**
 
 ---
 
